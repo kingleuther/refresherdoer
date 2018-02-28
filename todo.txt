@@ -1,0 +1,18 @@
+1.	Bind the input with a paragraph tag
+2.	Loop an array of objects. You can just use a dummy data
+3.	Show a sample div if a certain variable is true.
+4.	Show an alert on button click
+5.	Make a simple usage sample of ng-select
+6.	Make a simple factory.
+7.	Make a simple component.
+8.	Make a simple directive (it is up to you what you’ll make)
+
+Questions:
+1.	What is the difference of ng-if and ng-hide?
+		-ng-if is used as an if-else statement in a programming language,
+		 whereas ng-hide was utilized like the css tag <visibility: hidden>. 
+2.	What is the difference of a component and directive?
+		-Component is a kind of directive which has no behavior, compared to 
+		 Directives which we could set its behavior using link property 
+
+https://github.com/kingleuther/greatdoer
